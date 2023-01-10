@@ -35,4 +35,4 @@ Also accessible on the navbar are links to either login or register.
 
 ## Created By
 
-[Andre Entrekin](https://github.com/AndreTheTallGuy)
+[Ayla Winters](https://github.com/AylaWinters)
